@@ -1,2 +1,2 @@
-# abhishekvidyapandeynb.github.io
+# abhishekvidyapandey.github.io
 my portfolio
